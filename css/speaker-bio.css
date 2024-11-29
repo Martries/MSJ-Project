@@ -1,0 +1,303 @@
+
+* {
+    scroll-behavior: smooth;
+}
+
+body,
+html {
+    /* margin: 0;
+    padding: 0; */
+    height: 100%;
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.loader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    /* Restyle Background to have blurry background image */
+    background: rgba(255, 255, 255, 1);
+    z-index: 1000;
+    transition: opacity 0.5s ease;
+}
+
+
+
+.brand-logo {
+    max-width: 200px;
+}
+
+/* Navbar */
+.navbar-transparent {
+    background-color: transparent !important;
+}
+
+.nav-links {
+    padding: 0px 20px;
+}
+
+a.nav-link {
+    font-size: 1.15rem;
+    width: 100px;
+    color: #064ACB;
+}
+
+a.nav-link:hover {
+    color: #F3A953;
+}
+
+a.active {
+    color: #F3A953 !important;
+}
+
+a.dropdown-toggle,
+a.dropdown-item {
+    color: #064ACB !important;
+}
+
+a.dropdown-item:hover,
+a.dropdown-toggle:hover {
+    color: #F3A953 !important;
+}
+
+.navbar-toggler:focus {
+    box-shadow: none;
+}
+
+/* When the navbar is expanded */
+.navbar-toggler[aria-expanded="true"]:focus {
+    box-shadow: 0 0 5px #4070f4;
+}
+
+
+/* Navbar End */
+
+
+ .speaker-detail {
+    margin-top: 20px;
+}
+
+.speaker-name {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.biography {
+    font-size: 1.5rem;
+    font-weight: lighter;
+    margin-top: 10px;
+}
+
+.speaker-designation {
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
+
+.speaker-image {
+    max-width: 100%;
+    /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); */
+    height: 300px;
+    margin-top: 20px;
+}
+
+.speaker-bio {
+    font-size: 1rem;
+    line-height: 1.6;
+    margin-top: 20px;
+}
+
+.bio-inner-link{
+    text-decoration: none;
+    color: #F3A953;
+}
+
+
+/* .btn:hover{
+    color: #F3A953 !important;
+} */
+
+
+
+/* Footer */
+/* footer {
+position: fixed;
+
+} */
+
+.footer-nav-link {
+    text-decoration: none;
+}
+
+footer svg {
+    font-size: 500px;
+}
+
+.pro-links i {
+    padding: 10px 13px;
+    border: 1px solid #4070f4;
+    cursor: pointer;
+    transition: 0.3s ease;
+
+}
+
+.pro-links a {
+    text-decoration: none;
+    color: #4070f4 !important;
+}
+
+.pro-links i:hover {
+    background: #F3A953;
+    color: #fff;
+    border: 1px solid #F3A953;
+    cursor: pointer;
+}
+
+
+/* Custom scrollbar styles */
+::-webkit-scrollbar {
+    width: 10px;
+    /* Width of vertical scrollbar */
+    height: 10px;
+    /* Height of horizontal scrollbar */
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    /* Track color */
+}
+
+::-webkit-scrollbar-thumb {
+    background: #F3A953;
+    /* Thumb color */
+    border-radius: 5px;
+    /* Rounded corners */
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #F3A953;
+    /* Thumb color on hover */
+}
+
+
+/* Media Queries */
+
+/* For Smaller screens */
+
+@media (max-width:380px){
+    footer span{
+        font-size:0.8rem ;
+    }
+    footer i{
+        font-size:0.6rem ;
+        padding: 5px 6.5px;
+    }
+
+}
+
+/* For mobile devices */
+@media (min-width:381px) and (max-width: 767px) {
+    .speaker-detail .row.align-items-center {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .speaker-name,
+    .biography {
+        text-align: left;
+    }
+
+    .speaker-image {
+        order: 2;
+        margin-top: 20px;
+    }
+
+    .speaker-designation {
+        order: 3;
+        margin-top: 20px;
+    }
+
+    .speaker-bio {
+        order: 4;
+    }
+
+    /* Footer */
+    footer {
+        display: flex;
+        justify-content: space-evenly;
+
+    }
+
+         footer i {
+        font-size: 0.8rem;
+        padding: 5px 6.5px;
+
+    }
+
+
+
+    /* Custom scrollbar styles */
+    ::-webkit-scrollbar {
+        width: 10px;
+        /* Width of vertical scrollbar */
+        height: 10px;
+        /* Height of horizontal scrollbar */
+    }
+
+    ::-webkit-scrollbar-track {
+        background: #f1f1f1;
+        /* Track color */
+    }
+
+    ::-webkit-scrollbar-thumb {
+        background: #F3A953;
+        /* Thumb color */
+        border-radius: 5px;
+        /* Rounded corners */
+    }
+
+    ::-webkit-scrollbar-thumb:hover {
+        background: #F3A953;
+        /* Thumb color on hover */
+    }
+}
+
+@media (min-width:768px) and (max-width:1200px) {
+    footer {
+        display: flex;
+        justify-content: space-between;
+
+    }
+
+
+    .speaker-name {
+        font-size: 4.5rem;
+
+    }
+
+    .biography {
+        font-size: 2.5rem;
+    }
+
+    .speaker-designation {
+        font-size: 2.0rem;
+    }
+
+    .speaker-image {
+        max-width: 100%;
+        /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); */
+        height: 300px;
+        margin-top: 20px;
+    }
+
+    .speaker-bio {
+        font-size: 2rem;
+    }
+}
