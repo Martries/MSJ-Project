@@ -2,10 +2,15 @@
     scroll-behavior: smooth;
 }
 body {
-    font-family: "EB Garamond", serif;
+    font-family: "Roboto", serif;
+    font-size: 16px;
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
+}
+
+p{
+    font-size: 1rem !important;
 }
 
 /* Loader */
@@ -31,13 +36,23 @@ body {
 }
 
 /* Loader End */
-
+h1{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+}
 h2, h3{
-    color: #4070f4;
+        font-family: "Montserrat", sans-serif;
+        font-size: 2rem;
+            font-optical-sizing: auto;
+            font-weight: bold;
+            font-style: normal;
+    color: #005BB5;
 }
 
 .gradient-background {
-    background: linear-gradient(300deg,#00bfff , #064ACB, #333);
+    background: linear-gradient(300deg,#00bfff , #005BB5, #333);
     background-size: 180% 1800%;
     animation: gradient-animation 18s ease infinite;
 }
@@ -68,9 +83,12 @@ h2, h3{
 }
 
 #title h1{
+    font-size: 2.5rem;
     color:#fff  !important;
 }
 #title p{
+    font-size: 1rem;
+    font-weight: 500;
     color:#fff !important;
 }
 
@@ -81,11 +99,12 @@ h2, h3{
 }
 
 .t-btn1, .t-btn2{
+    font-size: 1rem;
     font-weight: 500;
 }
 
 .t-btn1{
-    color: #F3A953;
+    color: #FFA500 ;
 }
 
 .t-btn1:hover{
@@ -97,7 +116,7 @@ h2, h3{
 
 
 .t-btn2:hover{
-    background: #F3A953;
+    background: #FFA500 ;
     color: #fff;
 }
 
@@ -119,26 +138,26 @@ h2, h3{
 }
 
 a.nav-link{
-font-size: 1.15rem;
+font-size: 1rem;
 width: 100px; 
-color: #064ACB;
+color: #005BB5;
 }
 
 a.nav-link:hover{
- color: #F3A953 !important; 
+ color: #FFA500  !important; 
 }
 
 a.active{
-color:#F3A953 !important ;
+color:#FFA500  !important ;
 }
 
 a.dropdown-toggle,
 a.dropdown-item{
- color: #064ACB !important;   
+ color: #005BB5 !important;   
 }
 a.dropdown-item:hover,
 a.dropdown-toggle:hover{
-    color: #F3A953 !important;
+    color: #FFA500  !important;
 }
 
 .navbar-toggler:focus {
@@ -147,7 +166,7 @@ a.dropdown-toggle:hover{
 
 /* When the navbar is expanded */
 .navbar-toggler[aria-expanded="true"]:focus {
-    box-shadow: 0 0 5px #4070f4;
+    box-shadow: 0 0 5px #005BB5;
 }
 
 
@@ -178,10 +197,14 @@ a.dropdown-toggle:hover{
     margin-bottom: 20px;
 }
 
+/* Inroducton section */
+
 .intro-section h2{
-    font-size: 2.5rem;
+    font-size: 2rem;
     color: #0069d9;
 }
+
+
 
 /* slider section */
 
@@ -287,29 +310,29 @@ margin-left: 20px;
 .feature-card:nth-child(1) .feature-card-circle,
 .feature-card:nth-child(1) .feature-card-content button {
     transition: .5s;
-    background: #4070f4;
-    border: 2px solid #4070f4;
+    background: #005BB5;
+    border: 2px solid #005BB5;
 }
 
 .feature-card:nth-child(2) .feature-card-circle,
 .feature-card:nth-child(2) .feature-card-content button {
     transition: 0.5s;
-    background: #F3A953;
-    border: 2px solid #F3A953;
+    background: #FFA500 ;
+    border: 2px solid #FFA500 ;
     
 }
 
 .feature-card:nth-child(3) .feature-card-circle,
 .feature-card:nth-child(3) .feature-card-content button {
     transition: 0.5s;
-    background: #4070f4;
-    border: 2px solid #4070f4;
+    background: #005BB5;
+    border: 2px solid #005BB5;
 }
 .feature-card:nth-child(4) .feature-card-circle,
 .feature-card:nth-child(4) .feature-card-content button {
     transition: 0.5s;
-    background: #F3A953;
-    border: 2px solid #F3A953;
+    background: #FFA500 ;
+    border: 2px solid #FFA500 ;
 }
 
 .card-container .feature-card {
@@ -407,7 +430,7 @@ margin-left: 20px;
 }
 
 .view-all-button:hover {
-    background-color: #F3A953;
+    background-color: #FFA500 ;
 }
 
 .vidbutton-container {
@@ -480,14 +503,14 @@ margin-left: 20px;
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #F3A953;
+    background: #FFA500 ;
     /* Thumb color */
     border-radius: 5px;
     /* Rounded corners */
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: #F3A953;
+    background: #FFA500 ;
     /* Thumb color on hover */
 }
 /* Highlights Section End */
@@ -515,7 +538,7 @@ margin-left: 20px;
 #current-opportunities h2 {
     font-size: 2em;
     margin-bottom: 1em;
-    color: #4070f4;
+    color: #005BB5;
 }
 
 .current-opportunities-carousel .opportunity-item {
@@ -544,7 +567,7 @@ margin-left: 20px;
 
 .current-opportunities-carousel .opportunity-item .text h3 {
     font-size: 2em;
-    color: #4070f4;
+    color: #005BB5;
     margin-bottom: 0.5em;
 }
 
@@ -560,7 +583,7 @@ margin-left: 20px;
     font-size: 1em;
     font-weight: 600;
     color: #fff;
-    background-color: #4070f4;
+    background-color: #005BB5;
     text-transform: uppercase;
     border: none;
     border-radius: 0.5em;
@@ -590,7 +613,7 @@ margin-left: 20px;
 
 /* Owl Carousel Specific Styling for Current Opportunities */
 .current-opportunities-carousel .owl-nav button {
-    background: #4070f4;
+    background: #005BB5;
     color: #fff;
     border: none;
     padding: 0.5em 1em;
@@ -759,6 +782,10 @@ margin-left: 20px;
 
 /* About US Page */
 
+.bg-primary{
+    background-color:#005BB5 !important ;
+}
+
 .vision-video {
     background-color: #f9f9f9;
     /* Light grey background */
@@ -777,7 +804,7 @@ margin-left: 20px;
     /* Slightly reduced font size */
     margin-bottom: 10px;
     /* Reduced margin */
-    color: #4070f4;
+    color: #005BB5;
     /* Dark grey color for heading */
 }
 
@@ -835,7 +862,7 @@ margin-left: 20px;
 }
 #mission,
 #values {
-    border: 1px solid #F3A953;
+    border: 1px solid #FFA500 ;
     box-shadow: 0px 0px 5px #333;
     color: #fff;
 }
@@ -865,13 +892,13 @@ margin-left: 20px;
 #experts .expert-box .profile {
     background: #fff;
     padding: 30px 10px;
-    border: 1px solid #F3A953;
+    border: 1px solid #FFA500 ;
     box-shadow: 0px 0px 5px #333;
 }
 
 #experts .expert-box .profile img {
     padding: 0.5vw;
-    background-color: #F3A953;
+    background-color: #FFA500 ;
     border-radius: 5px;
 }
 
@@ -881,7 +908,7 @@ margin-left: 20px;
 
 .pro-links i {
     padding: 10px 13px;
-    border: 1px solid #4070f4;
+    border: 1px solid #005BB5;
     cursor: pointer;
     transition: 0.3s ease;
 
@@ -889,13 +916,13 @@ margin-left: 20px;
 
 .pro-links a {
     text-decoration: none;
-    color: #4070f4 !important;
+    color: #005BB5 !important;
 }
 
 .pro-links i:hover {
-    background: #F3A953;
+    background: #FFA500 ;
     color: #fff;
-    border: 1px solid #F3A953;
+    border: 1px solid #FFA500 ;
     cursor: pointer;
 }
 
@@ -913,7 +940,7 @@ margin-left: 20px;
     font-size: 0.65rem;
     font-weight: 800;
     color: #fff;
-    background-color: #4070f4;
+    background-color: #005BB5;
     text-transform: uppercase;
     border: none;
     border-radius: 0.5em;
@@ -923,7 +950,7 @@ margin-left: 20px;
 }
 
 .pro-button:hover {
-    background-color: #F3A953;
+    background-color: #FFA500 ;
 }
 
 @media (max-width:760px){
@@ -939,12 +966,12 @@ margin-left: 20px;
     box-shadow: none;
 }
 #vision h2{
-    color:#4070f4;
+    color:#005BB5;
 }
 
 #values{
-background-color: #0D6EFD;    
-border: 1px solid #F3A953;
+background-color: #005BB5;    
+border: 1px solid #FFA500 ;
 box-shadow: 0px 0px 5px #333;
 color: #fff;
 }
@@ -974,7 +1001,7 @@ color: #fff;
     text-align: center;
     margin-bottom: 40px;
     font-size: 2.5rem;
-    color: #4070f4;
+    color: #005BB5;
 }
 
 .speakers-container {
@@ -1025,7 +1052,7 @@ color: #fff;
 }
 
 .view-more:hover {
-    background-color: #F3A953;
+    background-color: #FFA500 ;
 }
 
 @media (min-width: 600px) {
@@ -1060,7 +1087,7 @@ color: #fff;
 }
 
 a.btn-social:hover{
-    background-color:#F3A953;
+    background-color:#FFA500 ;
     border-color: #0062cc;
 }
 
@@ -1075,7 +1102,7 @@ textarea{
 }
 
 a.footer-nav-link:hover {
-    color: #F3A953;
+    color: #FFA500 ;
 }
 
 footer svg{
@@ -1083,7 +1110,11 @@ footer svg{
 }
 
 .copyright{
-    font-size: 1.15rem;
+    font-size: 0.5rem;
+}
+
+footer i{
+    color: #005BB5;
 }
 
 @media (max-width:380px) {
