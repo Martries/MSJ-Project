@@ -1,0 +1,1 @@
+#My Science Journey (MSJ)# is an interactive platform designed to inspire and guide young students in pursuing careers in science, technology, engineering, and mathematics (STEM). It features user-friendly resources, career insights, and engaging tools to help users explore and navigate their STEM journey effectively.
