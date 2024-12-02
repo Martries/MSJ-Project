@@ -199,12 +199,14 @@ a.dropdown-toggle:hover{
 
 /* Inroducton section */
 
-.intro-section h2{
+ h2{
     font-size: 2rem;
     color: #0069d9;
 }
 
-
+.intro-section p{
+    font-weight: 500;
+}
 
 /* slider section */
 
