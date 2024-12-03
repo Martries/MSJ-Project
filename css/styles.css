@@ -908,14 +908,7 @@ margin-left: 20px;
 }
 
 /* Center the last child on iPad and larger screens */
-@media (min-width: 768px) {
-    #experts .expert-box .profile:first-child {
-        grid-column: span 4;
-        /* Span two columns for centering */
-        justify-self: center;
-        /* Align content to the center */
-    }
-}
+
 
 .pro-links {
     margin-top: 10px;
