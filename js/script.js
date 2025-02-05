@@ -96,3 +96,42 @@ document.addEventListener('DOMContentLoaded', function() {
     // Swipe functionality for Community Highlights
 });
 
+// Newly addedd Title carousel
+
+document.addEventListener("DOMContentLoaded", function () {
+    const carousel = new bootstrap.Carousel(document.querySelector("#titleCarousel"), {
+      interval: 5000, // Auto-slide every 5 seconds
+      wrap: true, // Loop back to the first slide
+      pause: "hover", // Pause on hover
+    });
+  
+    // Optional: Manually navigate slides with JavaScript
+    document.querySelector(".carousel-control-prev").addEventListener("click", function () {
+      carousel.prev();
+    });
+  
+    document.querySelector(".carousel-control-next").addEventListener("click", function () {
+      carousel.next();
+    });
+  });
+  
+// Newly Added Toggling Feature for Speakers Section
+
+// Toggle function for displaying and hiding sections
+document.getElementById("toggle-2024").addEventListener("click", function() {
+    var speakers2024 = document.getElementById("speakers-2024");
+    if (speakers2024.style.display === "none") {
+        speakers2024.style.display = "block";
+    } else {
+        speakers2024.style.display = "none";
+    }
+});
+
+document.getElementById("toggle-2025").addEventListener("click", function() {
+    var speakers2025 = document.getElementById("speakers-2025");
+    if (speakers2025.style.display === "none") {
+        speakers2025.style.display = "block";
+    } else {
+        speakers2025.style.display = "none";
+    }
+});

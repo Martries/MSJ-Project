@@ -35,7 +35,30 @@ p{
     max-width: 200px;
 }
 
+
+
+
 /* Loader End */
+
+@keyframes gradient-animation {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+}
+.gradient-background {
+    background: linear-gradient(300deg,#00bfff , #005BB5, #333);
+    background-size: 180% 1800%;
+    animation: gradient-animation 18s ease infinite;
+}
+
 h1{
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
@@ -51,11 +74,7 @@ h2, h3{
     color: #005BB5;
 }
 
-.gradient-background {
-    background: linear-gradient(300deg,#00bfff , #005BB5, #333);
-    background-size: 180% 1800%;
-    animation: gradient-animation 18s ease infinite;
-}
+
 
 .title-section {
     height: 100%;
@@ -68,19 +87,6 @@ h2, h3{
 
 }
 
-@keyframes gradient-animation {
-    0% {
-        background-position: 0% 50%;
-    }
-
-    50% {
-        background-position: 100% 50%;
-    }
-
-    100% {
-        background-position: 0% 50%;
-    }
-}
 
 #title h1{
     font-size: 2.5rem;
@@ -991,6 +997,31 @@ color: #fff;
 
 
 /* Speakers page */
+
+/* Style for the toggle headings */
+.toggle-heading {
+    font-size: 1.5rem;
+    font-weight: bold;
+    display: inline-block;
+    padding: 10px 20px;
+    border: 2px solid #000;
+    cursor: pointer;
+    margin: 20px auto;
+    text-align: center;
+    width: auto;
+    transition: background-color 0.3s;
+}
+
+.toggle-heading:hover {
+    background-color: #f0f0f0;
+}
+
+/* Add any additional styles to your speakers container as needed */
+.speakers-container {
+    display: none; /* Initially hidden */
+}
+
+
 .speaker-background {
     background: url('/images/Speakers1_photo.jpeg') repeat center center fixed;
     background-size: cover;
