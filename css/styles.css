@@ -134,6 +134,14 @@ h2, h3{
     color:#fff !important;
 }
 
+
+  
+  .title-section-1 p,.title-section-2 p, .title-section-3 p{
+    font-size: 1.2rem !important;
+    margin-top: 10rem;
+  }
+  
+
 #title img{
     box-shadow: 0px 0px 5px #0062cc;
     height: fit-content;

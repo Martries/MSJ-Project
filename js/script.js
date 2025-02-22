@@ -100,7 +100,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 document.addEventListener("DOMContentLoaded", function () {
     const carousel = new bootstrap.Carousel(document.querySelector("#titleCarousel"), {
-      interval: 5000, // Auto-slide every 5 seconds
+      interval: 4000, // Auto-slide every 4 seconds
       wrap: true, // Loop back to the first slide
       pause: "hover", // Pause on hover
     });
