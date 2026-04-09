@@ -135,3 +135,21 @@ document.getElementById("toggle-2025").addEventListener("click", function() {
         speakers2025.style.display = "none";
     }
 });
+
+
+        // Opportunity filtering function
+        function filterOpps(category, btn) {
+            // Update active button
+            document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+
+            // Show/hide categories
+            document.querySelectorAll('.opps-category').forEach(section => {
+                if (category === 'all' || section.dataset.category === category) {
+                    section.style.display = 'block';
+                } else {
+                    section.style.display = 'none';
+                }
+            });
+        }
+    // End of Opportunity filtering function

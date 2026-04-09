@@ -1,0 +1,189 @@
+[33mcommit b3e62a6d705f035f80924074cb037f80aad4c22a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Owolabi Muktar <abidemimukty@gmail.com>
+Date:   Tue Apr 7 10:37:32 2026 +0100
+
+    feat: remove Anita from website, fix Mariam alt text
+
+[33mcommit 5a086fb55010ccc128e4ac595a62b7643356ddda[m
+Author: Owolabi Muktar <abidemimukty@gmail.com>
+Date:   Mon Apr 6 21:21:30 2026 +0100
+
+    feat: add news section styles
+
+[33mcommit 16e5a3fa09b95b033ddfc413b55b866c0c725446[m
+Author: Owolabi Muktar <abidemimukty@gmail.com>
+Date:   Mon Apr 6 12:11:16 2026 +0100
+
+    Update Ruth Bio
+
+[33mcommit b5bf70ef24b204ceb831e0c76166d4100be0d28c[m
+Author: Owolabi Muktar <abidemimukty@gmail.com>
+Date:   Mon Apr 6 12:07:43 2026 +0100
+
+    feat: homepage updates - events, news, sections reorder
+
+[33mcommit 96bb660fd00850686fe9521c11a01c70d9851a1a[m
+Author: Owolabi Muktar <abidemimukty@gmail.com>
+Date:   Sun Apr 5 16:38:44 2026 +0100
+
+    chore: remove cpanel deployment config
+
+[33mcommit bebe665d47bf4c98f08f010d89236f5edf3d85e7[m
+Author: Owolabi Muktar <abidemimukty@gmail.com>
+Date:   Sun Apr 5 15:57:24 2026 +0100
+
+    fix: update cpanel deployment config
+
+[33mcommit 01b90c340fd65bd5eb26b3e8b2fc116424c96554[m
+Author: Owolabi Muktar <abidemimukty@gmail.com>
+Date:   Sun Apr 5 15:50:11 2026 +0100
+
+    test: verify live deploy again
+
+[33mcommit 8c53e2457dbfb861a9b30957cec317103d8610f3[m
+Author: Owolabi Muktar <abidemimukty@gmail.com>
+Date:   Sun Apr 5 15:03:05 2026 +0100
+
+    test: verify live deploy
+
+[33mcommit 01d8d50f07d6ed5c957640995b1d13376ea0bc5f[m
+Author: Owolabi Muktar <abidemimukty@gmail.com>
+Date:   Sun Apr 5 14:59:28 2026 +0100
+
+    feat: add cpanel deployment config
+
+[33mcommit 01954a426f6155e2e7cadabcfc56f7849633c8bf[m
+Merge: fd54905 f599da9
+Author: Martries <martries.com@gmail.com>
+Date:   Mon May 5 12:34:17 2025 +0100
+
+    Merge pull request #3 from CallmeMukty/update-may-2025
+    
+    May 2025 site update looks good
+
+[33mcommit f599da9bd9f542cbbc58b39883bafeae6055c748[m
+Merge: 5caa56c fd54905
+Author: Owolabi Muktar <abidemimukty@gmail.com>
+Date:   Mon May 5 11:59:20 2025 +0100
+
+    Merge branch 'main' into update-may-2025
+
+[33mcommit 5caa56c45a183ca3e5463f722ea3d2bc628818fa[m
+Author: Owolabi Muktar <abidemimukty@gmail.com>
+Date:   Mon May 5 11:52:40 2025 +0100
+
+    May 2025 site update
+
+[33mcommit fd549053f96590aa90f3bfecd9409a86e5d55f97[m[33m ([m[1;31mupstream/main[m[33m)[m
+Merge: 3f4a5d3 2a22bcb
+Author: Martries <martries.com@gmail.com>
+Date:   Thu Mar 27 15:45:28 2025 +0100
+
+    Merge pull request #2 from CallmeMukty/second-2025-updates-logo
+    
+    Updated Website with New Logo
+
+[33mcommit 2a22bcb6b1038e06438f57bca0a2f7b509bcacf3[m[33m ([m[1;31morigin/second-2025-updates-logo[m[33m, [m[1;32msecond-2025-updates-logo[m[33m)[m
+Author: Owolabi Muktar <abidemimukty@gmail.com>
+Date:   Thu Mar 27 15:25:53 2025 +0100
+
+    Updated Website with New Logo
+
+[33mcommit 3f4a5d396d23a21a77d43cfa060932cd25a3d8b7[m
+Merge: 83a1ee6 d3e6c4c
+Author: Martries <martries.com@gmail.com>
+Date:   Sat Feb 22 18:37:45 2025 +0100
+
+    Merge pull request #1 from CallmeMukty/first-2025-updates
+    
+    First 2025 updates for MSJ so far
+
+[33mcommit d3e6c4c3a8a1840813a5614f76e2dbeea324ae2b[m[33m ([m[1;31morigin/first-2025-updates[m[33m, [m[1;32mfirst-2025-updates[m[33m)[m
+Author: Owolabi Muktar <abidemimukty@gmail.com>
+Date:   Sat Feb 22 18:23:17 2025 +0100
+
+    Complete Update So far
+
+[33mcommit 3e02f59a22d3194a3b83eba05f52a1771e47407b[m
+Author: Owolabi Muktar <abidemimukty@gmail.com>
+Date:   Fri Feb 7 21:18:25 2025 +0100
+
+    Added Carouse to Hero section
+
+[33mcommit 9783b2cf0832bc85e4331f9bc7842c8cab77df09[m
+Author: Owolabi Muktar <abidemimukty@gmail.com>
+Date:   Thu Feb 6 12:29:11 2025 +0100
+
+    Testimonials and upcoming events update
+
+[33mcommit ac84d8b8a21deb4b361d8e05a34fcc243666385a[m
+Author: Owolabi Muktar <abidemimukty@gmail.com>
+Date:   Thu Feb 6 11:14:49 2025 +0100
+
+    Speakers bio 2025 updated
+
+[33mcommit 771fc389cf714624606a6c3ed4831f2ecbc09fae[m
+Author: Owolabi Muktar <abidemimukty@gmail.com>
+Date:   Wed Feb 5 15:32:54 2025 +0100
+
+    Speakers Section Update-1
+
+[33mcommit 83a1ee6e2a87d1a399b4389b0df561636f81632d[m
+Author: Owolabi_Mukty <abidemimukty@gmail.com>
+Date:   Tue Dec 3 22:35:11 2024 +0100
+
+    Update Speakers
+
+[33mcommit bdbb716d0fb802e6fb7e6e2925ef0354285c30ac[m
+Author: Owolabi_Mukty <abidemimukty@gmail.com>
+Date:   Tue Dec 3 16:36:55 2024 +0100
+
+    Speaker, Blog & Team Update
+
+[33mcommit 0bf9ef8f8bd7ff42f3e1ea6db7b7c80f2f67faaf[m
+Author: Owolabi_Mukty <abidemimukty@gmail.com>
+Date:   Tue Dec 3 14:42:32 2024 +0100
+
+    Blog link added & Team order adjusted back to defaul order
+
+[33mcommit d1390fdc740496d032910d8250047f8793c8027b[m
+Author: Owolabi_Mukty <abidemimukty@gmail.com>
+Date:   Tue Dec 3 12:32:36 2024 +0100
+
+    Team Members order adjustment
+
+[33mcommit 5e4ba0baa98cc479990f229f116556350d300df6[m
+Author: Owolabi_Mukty <abidemimukty@gmail.com>
+Date:   Mon Dec 2 21:50:01 2024 +0100
+
+    Team Members & Speakers Update
+
+[33mcommit 15b74105939bd99ed6bd2ee8b1c488c3d4156c42[m
+Author: Owolabi_Mukty <abidemimukty@gmail.com>
+Date:   Sat Nov 30 08:13:16 2024 +0100
+
+    Speakers Update
+
+[33mcommit 24f2fd3752cdf9bac1472b21e06517f687175cc8[m
+Author: Owolabi_Mukty <abidemimukty@gmail.com>
+Date:   Fri Nov 29 15:14:34 2024 +0100
+
+    Fonts and Colors Update
+
+[33mcommit 2458105fd6e9f30c7b5f2cd315ead67dd1615ae8[m
+Author: Martries <martries.com@gmail.com>
+Date:   Fri Nov 29 12:03:24 2024 +0100
+
+    Update readme.md
+
+[33mcommit 5e303185a7b382bb2c8f9ee5ad5907d21dfd538e[m
+Author: Owolabi_Mukty <abidemimukty@gmail.com>
+Date:   Fri Nov 29 11:59:17 2024 +0100
+
+    Readme.md Update
+
+[33mcommit 654281c9c6ba6de2deb0290b49c1b5ffc8e192e1[m
+Author: Owolabi_Mukty <abidemimukty@gmail.com>
+Date:   Fri Nov 29 11:36:15 2024 +0100
+
+    first commit
