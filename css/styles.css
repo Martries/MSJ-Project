@@ -1990,3 +1990,45 @@ div.t-heading{
             .filter-btn { font-size: 0.8rem; padding: 6px 16px; }
         }
     /* ==Oppurtunities Style Ends== */
+
+    /* ========== Our Story & Vision ========== */
+.story-vision-wrap {
+    display: flex;
+    gap: 48px;
+    align-items: center;
+    text-align: left;
+    /* Newly added */
+    background: #005BB5;
+    padding: 60px 40px;
+    border-radius: 12px;
+}
+.story-vision-text {
+    flex: 1;
+}
+.story-vision-text h2 {
+    color: #FFA500;
+    font-size: 1.6rem;
+    font-weight: 700;
+    margin-bottom: 12px;
+}
+.story-vision-text p {
+    font-size: 0.95rem;
+    color: #ffffff;
+    line-height: 1.75;
+}
+.story-vision-image {
+    flex: 1;
+}
+.story-vision-image img {
+    width: 100%;
+    border-radius: 12px;
+    object-fit: cover;
+    max-height: 400px;
+}
+@media (max-width: 768px) {
+    .story-vision-wrap {
+        flex-direction: column;
+    }
+}
+
+    /* ========== Our Story & Vision End ========== */
