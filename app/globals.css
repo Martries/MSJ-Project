@@ -1,0 +1,8 @@
+/*
+ * Intentionally empty.
+ *
+ * The site's global styling comes from Bootstrap 5 (Reboot + components) and the
+ * original custom stylesheet `styles/styles.css`, both imported in app/layout.tsx
+ * in the same cascade order as the original site. Adding resets or colors here
+ * would break visual parity, so this file is deliberately left blank.
+ */

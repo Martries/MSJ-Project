@@ -1,0 +1,13 @@
+# Netlify configuration for the DEMO deployment (msjdemo.netlify.app).
+#
+# The demo must stay non-indexable, so after building we overwrite robots.txt
+# with the "Disallow: /" version. PRODUCTION must NOT do this — for the
+# production site, use `command = "next build"` so the indexable public/robots.txt
+# (Allow: /) is served instead.
+
+[build]
+  command = "next build && cp public/robots-noindex.txt out/robots.txt"
+  publish = "out"
+
+[build.environment]
+  NODE_VERSION = "20"

@@ -1,0 +1,492 @@
+[
+  {
+    "key": "2025",
+    "toggleHeading": "2025 Speakers",
+    "pageTitle": "Science Speakers 2025",
+    "cards": [
+      {
+        "photo": "/images/speakers-images/2025-speakers/22_SWambua.jpeg",
+        "alt": "Dr. Sammy Wambua",
+        "name": "Dr. Sammy Wambua",
+        "designation": "Head, Pwani University Biosciences Research Centre (PUBReC), Kilifi, Kenya",
+        "href": "/speakers-bio/2025-speakers/speaker-22"
+      },
+      {
+        "photo": "/images/speakers-images/2025-speakers/21_ThankGod_Ebenezer1.jpeg",
+        "alt": "Dr. ThankGod Ebenezer",
+        "name": "Dr. ThankGod Ebenezer",
+        "designation": "Global Engagement Manager for EMBL-EBI Data Services, EMBL-European Bioinformatics Institute (EMBL-EBI), UK",
+        "href": "/speakers-bio/2025-speakers/speaker-21"
+      },
+      {
+        "photo": "/images/speakers-images/2025-speakers/20_Tabitha.jpg",
+        "alt": "Dr. Tabitha Mwangi",
+        "name": "Dr. Tabitha Mwangi",
+        "designation": "Programme Director, Mastercard Foundation Scholars and Collaborative Program, University of Cambridge",
+        "href": "/speakers-bio/2025-speakers/speaker-20"
+      },
+      {
+        "photo": "/images/speakers-images/2025-speakers/19_Quashie.jpg",
+        "alt": "Assoc. Prof. Peter Quashie",
+        "name": "Assoc. Prof. Peter Quashie",
+        "designation": "Deputy Director of Research, West African Centre for Cell Biology of Infectious Pathogens (WACCBIP), University of Ghana; Associate Professor of Molecular Virology",
+        "href": "/speakers-bio/2025-speakers/speaker-19"
+      },
+      {
+        "photo": "/images/speakers-images/2025-speakers/18_Thumbi.jpg",
+        "alt": "Prof. Thumbi Mwangi",
+        "name": "Prof. Thumbi Mwangi",
+        "designation": "Associate Professor of Epidemiology, Washington State University; Co-founder and Co-director, Center for Epidemiological Modelling and Analysis (CEMA), University of Nairobi",
+        "href": "/speakers-bio/2025-speakers/speaker-18"
+      },
+      {
+        "photo": "/images/speakers-images/2025-speakers/17_Nicky.jpg",
+        "alt": "Prof. Nicola Mulder",
+        "name": "Prof. Nicola Mulder",
+        "designation": "Head, Computational Biology Division, University of Cape Town; Principal Investigator, DS-I Africa eLwazi Open Data Science Platform",
+        "href": "/speakers-bio/2025-speakers/speaker-17"
+      },
+      {
+        "photo": "/images/speakers-images/2025-speakers/16_Carol.jpeg",
+        "alt": "Dr. Carol Ibe",
+        "name": "Dr. Carol Ibe",
+        "designation": "Founder, JR Biotek Foundation; Research Manager, Cambridge Global Challenges Interdisciplinary Research Centre, University of Cambridge",
+        "href": "/speakers-bio/2025-speakers/speaker-16"
+      },
+      {
+        "photo": "/images/speakers-images/2025-speakers/15_Patience_Kiyuka.jpg",
+        "alt": "Dr. Patience Kiyuka",
+        "name": "Dr. Patience Kiyuka",
+        "designation": "Principal Research Scientist, Kenya Medical Research Institute (KEMRI)",
+        "href": "/speakers-bio/2025-speakers/speaker-15"
+      },
+      {
+        "photo": "/images/speakers-images/2025-speakers/14_Paballo.jpg",
+        "alt": "Mr. Paballo Chauke",
+        "name": "Mr. Paballo Chauke",
+        "designation": "Training Coordinator, Wellcome Sanger Institute; Chair, H3Africa Education Working Group",
+        "href": "/speakers-bio/2025-speakers/speaker-14"
+      },
+      {
+        "photo": "/images/speakers-images/2025-speakers/13_Hellen_Shikanda.jpeg",
+        "alt": "Ms. Hellen Shikanda",
+        "name": "Ms. Hellen Shikanda",
+        "designation": "Health and Science Journalist, Nation Media Group",
+        "href": "/speakers-bio/2025-speakers/speaker-13"
+      },
+      {
+        "photo": "/images/speakers-images/2025-speakers/12_Alex_Kandie.jpg",
+        "alt": "Mr. Alex Kandie",
+        "name": "Mr. Alex Kandie",
+        "designation": "Senior Communication Specialist, Science for Africa Foundation",
+        "href": "/speakers-bio/2025-speakers/speaker-12"
+      },
+      {
+        "photo": "/images/speakers-images/2025-speakers/11_Francis_Kalule.jpg",
+        "alt": "Mr. Francis Kalule",
+        "name": "Mr. Francis Kalule",
+        "designation": "Diagnostic Regional Technical Manager for Sub-Saharan Africa, Zoetis",
+        "href": "/speakers-bio/2025-speakers/speaker-11"
+      },
+      {
+        "photo": "/images/speakers-images/2025-speakers/10_Joseph_Tatuene.jpg",
+        "alt": "Dr. Joseph Tatuene",
+        "name": "Dr. Joseph Tatuene",
+        "designation": "Neurologist and Neuroscientist; Wellcome Trust Early Career Fellow, Wolfson Centre for Prevention of Stroke and Dementia, University of Oxford",
+        "href": "/speakers-bio/2025-speakers/speaker-10"
+      },
+      {
+        "photo": "/images/speakers-images/2025-speakers/09_Oyesola.jpg",
+        "alt": "Dr. Oyesola Ojewunmi",
+        "name": "Dr. Oyesola Ojewunmi",
+        "designation": "Senior Research Fellow in Genomics, Precision Healthcare University Research Institute (PHURI), Queen Mary University of London, UK",
+        "href": "/speakers-bio/2025-speakers/speaker-09"
+      },
+      {
+        "photo": "/images/speakers-images/2025-speakers/08_Eneyi_Kpokiri.png",
+        "alt": "Dr_Eneyi_Kpokiri",
+        "name": "Dr. Eneyi Kpokiri",
+        "designation": "Assistant Professor, London School of Hygiene and Tropical Medicine, UK",
+        "href": "/speakers-bio/2025-speakers/speaker-08"
+      },
+      {
+        "photo": "/images/speakers-images/2025-speakers/07_Amma Benneh.jpg",
+        "alt": "Dr-Ammah-Benneh",
+        "name": "Dr. Ammah Benneh",
+        "designation": "Consultant Haematologist, Head of Haematology, University of Ghana Medical School, Ghana",
+        "href": "/speakers-bio/2025-speakers/speaker-07"
+      },
+      {
+        "photo": "/images/speakers-images/2025-speakers/06_Henrietta_Mensah.jpg",
+        "alt": "Henrietta_Mensah_Brown",
+        "name": "Dr. Henrietta Mensah Brown",
+        "designation": "Postdoctoral Fellow, West African Centre for Cell Biology of Infectious Pathogens, University of Ghana, Ghana",
+        "href": "/speakers-bio/2025-speakers/speaker-06"
+      },
+      {
+        "photo": "/images/speakers-images/2025-speakers/05_Benjamin_Aribisala.jpeg",
+        "alt": "Prof. Benjamin Aribisala",
+        "name": "Prof. Benjamin Aribisala",
+        "designation": "Department of Computer Science, Lagos State University, Nigeria",
+        "href": "/speakers-bio/2025-speakers/speaker-05"
+      },
+      {
+        "photo": "/images/speakers-images/2025-speakers/04_Christian_Happi.jpg",
+        "alt": "Prof. Christian Happi",
+        "name": "Prof. Christian Happi",
+        "designation": "Professor of Molecular Biology and Genomics, Director of Institute of Genomics and Global Health, Redeemer's University, Ede, Nigeria",
+        "href": "/speakers-bio/2025-speakers/speaker-04"
+      },
+      {
+        "photo": "/images/speakers-images/2025-speakers/03_Daudi_Djingo.png",
+        "alt": "Dr. Daudi Djingo",
+        "name": "Dr. Daudi Djingo",
+        "designation": "Director of the African Center of Excellence in Bioinformatics and Data-Intensive Sciences, Uganda",
+        "href": "/speakers-bio/2025-speakers/speaker-03"
+      },
+      {
+        "photo": "/images/speakers-images/2025-speakers/01_Evelyn_Gitau.png",
+        "alt": "Evelyn_Gitau",
+        "name": "Dr. Evelyn Gitau",
+        "designation": "Chief Scientific Officer, Science for Africa Foundation",
+        "href": "/speakers-bio/2025-speakers/speaker-01"
+      },
+      {
+        "photo": "/images/speakers-images/2025-speakers/02_Melissa_Kapulu.jpg",
+        "alt": "Melissa_Kapulu",
+        "name": "Dr. Melissa Kapulu",
+        "designation": "Principal Research Investigator, KEMRI-Wellcome Trust Research Programme",
+        "href": "/speakers-bio/2025-speakers/speaker-02"
+      }
+    ]
+  },
+  {
+    "key": "main",
+    "toggleHeading": "2023-2024 Speakers",
+    "pageTitle": "Science Speakers",
+    "cards": [
+      {
+        "photo": "/images/speakers-images/41-Victor-Oria.jpeg",
+        "alt": "Victor Oria",
+        "name": "Assistant Prof. Victor Oria",
+        "designation": "Assistant Professor, University of Copenhagen, Denmark",
+        "href": "/speakers-bio/speaker-41"
+      },
+      {
+        "photo": "/images/speakers-images/40-Suhaila-Hashim.jpeg",
+        "alt": "Prof. Suhaila Hashim",
+        "name": "Prof. Suhaila Hashim",
+        "designation": "MSc. Bioinformatics Programme Co-ordinator & Manager, Pwani University Biosciences Research Centre, Kilifi, Kenya",
+        "href": "/speakers-bio/speaker-40"
+      },
+      {
+        "photo": "/images/speakers-images/39-Francis-Makokha.JPG",
+        "alt": "Dr. Francis Makokha",
+        "name": "Dr. Francis Makokha",
+        "designation": "Head of Human Health Research - Mt Kenya University, Kenya",
+        "href": "/speakers-bio/speaker-39"
+      },
+      {
+        "photo": "/images/speakers-images/38-Yaw Bediako.jpg",
+        "alt": "Dr Yaw Bediako",
+        "name": "Dr. Yaw Bediako",
+        "designation": "Founder and CEO, Yemaachi Biotech, Ghana",
+        "href": "/speakers-bio/speaker-38"
+      },
+      {
+        "photo": "/images/speakers-images/37-marta maia.jpg",
+        "alt": "Prof. Marta Maia",
+        "name": "Prof. Marta Maia",
+        "designation": "Medical Entomologist, KEMRI Wellcome Trust, Kenya",
+        "href": "/speakers-bio/speaker-37"
+      },
+      {
+        "photo": "/images/speakers-images/36-Chiara Batini.jpg",
+        "alt": "Dr. Chiara Batini",
+        "name": "Dr. Chiara Batini",
+        "designation": "Senior Research Fellow, University of Leicester, UK",
+        "href": "/speakers-bio/speaker-36"
+      },
+      {
+        "photo": "/images/speakers-images/35-Kevin Marsh.jpg",
+        "alt": "Dr. Caleb Kibet",
+        "name": "Prof. Kevin Marsh",
+        "designation": "Co-Director of the Africa Oxford Initiative (AfOx), Oxford, UK",
+        "href": "/speakers-bio/speaker-35"
+      },
+      {
+        "photo": "/images/speakers-images/34-Mohammed zahir.png",
+        "alt": "Dr. Mohamed Zahir Alimohamed",
+        "name": "Dr. Mohamed Zahir Alimohamed",
+        "designation": "Co-Founder: Tanzania Human Genetics Organization, Tanzania",
+        "href": "/speakers-bio/speaker-34"
+      },
+      {
+        "photo": "/images/speakers-images/1-Dr-Alice_Matimba.jpg",
+        "alt": "Dr Alice Matimba",
+        "name": "Dr. Alice Matimba",
+        "designation": "Head of Training and Global Capacity, Wellcome Connecting Science, UK",
+        "href": "/speakers-bio/speaker-1"
+      },
+      {
+        "photo": "/images/speakers-images/2-Dr-Anne_Makena.png",
+        "alt": "Dr. Anne Makena",
+        "name": "Dr. Anne Makena",
+        "designation": "Co-Director of the Africa Oxford Initiative (AfOx), Oxford, UK",
+        "href": "/speakers-bio/speaker-2"
+      },
+      {
+        "photo": "/images/speakers-images/3-Dr-Daniel_Masiga.jpeg",
+        "alt": "Dr. Daniel Masiga",
+        "name": "Dr. Daniel Masiga",
+        "designation": "Head of Human Health and Animal Health Department, ICIPE, Kenya",
+        "href": "/speakers-bio/speaker-3"
+      },
+      {
+        "photo": "/images/speakers-images/4-Dr-Richard_Mbasu.jpeg",
+        "alt": "Dr. Richard Mbasu",
+        "name": "Dr. Richard Mbasu",
+        "designation": "Proteomics and automation scientist, Novo Nordisk Research Centre, Oxford, UK",
+        "href": "/speakers-bio/speaker-4"
+      },
+      {
+        "photo": "/images/speakers-images/5-Jenea_Adams.jpg",
+        "alt": "Ms. Jenea Adams",
+        "name": "Ms. Jenea Adams",
+        "designation": "Founder, Black Women in Computational Biology Network (BWCB)",
+        "href": "/speakers-bio/speaker-5"
+      },
+      {
+        "photo": "/images/speakers-images/6-Prof_Dickson_Andala.png",
+        "alt": "Prof. Dickson Andala",
+        "name": "Prof. Dickson Andala",
+        "designation": "Chief Executive Officer, National Research Fund, Kenya",
+        "href": "/speakers-bio/speaker-6"
+      },
+      {
+        "photo": "/images/speakers-images/7-Prof_Njeru_Njagi.jpg",
+        "alt": "Prof. Njeru Njagi",
+        "name": "Prof. Njeru Njagi",
+        "designation": "Associate Professor, Warwick Medical School, University of Warwick, UK",
+        "href": "/speakers-bio/speaker-7"
+      },
+      {
+        "photo": "/images/speakers-images/8-Dr-Oumie_KuyatehPhoto.jpg",
+        "alt": "Dr. Oumie Kuyateh",
+        "name": "Dr. Oumie Kuyateh",
+        "designation": "Excellence Fellow, Wellcome Sanger Institue & Junior Research Fellow, Wolfson College, Cambridge, UK",
+        "href": "/speakers-bio/speaker-8"
+      },
+      {
+        "photo": "/images/speakers-images/9-Dr-Gerald_Mboowa.jpg",
+        "alt": "Dr. Gerald Mboowa",
+        "name": "Dr. Gerald Mboowa",
+        "designation": "Bioinformatics Scientist, Africa Centre for Disease Control, Addis Ababa, Ethiopia",
+        "href": "/speakers-bio/speaker-9"
+      },
+      {
+        "photo": "/images/speakers-images/10-Dr-Shadrack_Mutuku.jpeg",
+        "alt": "Dr. Shadrack Mutuku",
+        "name": "Dr. Shadrack Mutuku",
+        "designation": "Postdoctoral Research Fellow, The University of Wollongong, Australia.",
+        "href": "/speakers-bio/speaker-10"
+      },
+      {
+        "photo": "/images/speakers-images/11-Dr-Mutono_Nyamai.jpg",
+        "alt": "Dr. Mutono Nyamai",
+        "name": "Dr. Mutono Nyamai",
+        "designation": "Data Scientist, Centre for Epidemiological Modelling and Analysis (CEMA), Nairobi, Kenya",
+        "href": "/speakers-bio/speaker-11"
+      },
+      {
+        "photo": "/images/speakers-images/12-Dr-Michelle_Bishop.jpg",
+        "alt": "Dr Michelle Bishop",
+        "name": "Dr Michelle Bishop",
+        "designation": "Associate Director, Learning and Training at Wellcome Connecting Science, UK",
+        "href": "/speakers-bio/speaker-12"
+      },
+      {
+        "photo": "/images/speakers-images/13-Dr.Tinashe_Chikowore.png",
+        "alt": "Dr. Tinashe Chikowore",
+        "name": "Dr. Tinashe Chikowore",
+        "designation": "Investigator, Brigham Women’s Hospital & Instructor of Medicine at Harvard Medical School, USA",
+        "href": "/speakers-bio/speaker-13"
+      },
+      {
+        "photo": "/images/speakers-images/14-Prof-Segun_Fatumo.JPG",
+        "alt": "Prof. Segun Fatumo",
+        "name": "Prof. Segun Fatumo",
+        "designation": "Professor and Chair of Genomic Diversity, Queen Mary University of London, UK",
+        "href": "/speakers-bio/speaker-14"
+      },
+      {
+        "photo": "/images/speakers-images/15-Dr_Gladys_Ngetich.jpg",
+        "alt": "Dr. Gladys Ng’etich",
+        "name": "Dr. Gladys Ng’etich",
+        "designation": "Sdgo Startup Founder, Rhodes Scholar & Schmidt Science Fellow",
+        "href": "/speakers-bio/speaker-15"
+      },
+      {
+        "photo": "/images/speakers-images/16-Dr-Ifeoluwa_Gbala.jpeg",
+        "alt": "Dr. Ifeoluwa Gbala",
+        "name": "Dr. Ifeoluwa Gbala",
+        "designation": "WE-STAR Postdoctoral fellow, International Centre for Genetic Engineering and Biotechnology, Trieste, Italy",
+        "href": "/speakers-bio/speaker-16"
+      },
+      {
+        "photo": "/images/speakers-images/17-Dr-James_San.jpeg",
+        "alt": "Dr. James San",
+        "name": "Dr. James San",
+        "designation": "Postdoctoral researcher, University of KwaZulu Natal, Durban, South Africa",
+        "href": "/speakers-bio/speaker-17"
+      },
+      {
+        "photo": "/images/speakers-images/18-Dr-Fredrick-Mobegi.png",
+        "alt": "Dr. Fredrick Mobegi",
+        "name": "Dr. Fredrick Mobegi",
+        "designation": "Bioinformatics lead, Department of Health, Government of Western Australia, Australia",
+        "href": "/speakers-bio/speaker-18"
+      },
+      {
+        "photo": "/images/speakers-images/19-Dr-Collins_Mosita_Moringa.jpg",
+        "alt": "Dr. Collins Mosita Moringa",
+        "name": "Dr. Collins Mosita Moringa",
+        "designation": "Bioinformatics Scientist, West African Centre for Cell Biology and Infectious Pathogens (WACCBIP), Ghana",
+        "href": "/speakers-bio/speaker-19"
+      },
+      {
+        "photo": "/images/speakers-images/22-Alfred_Ssekagiri.png",
+        "alt": "Alfred Ssekagiri",
+        "name": "Alfred Ssekagiri",
+        "designation": "Bioinformatics Scientist, Uganda Virus Research Institute, Uganda",
+        "href": "/speakers-bio/speaker-22"
+      },
+      {
+        "photo": "/images/speakers-images/24-Dr-Ovokeraye-Oduaran.jpeg",
+        "alt": "Dr. Ovokeraye Oduaran",
+        "name": "Dr. Ovokeraye Oduaran",
+        "designation": "Postdoctoral researcher, University of Witswatersand, South Africa",
+        "href": "/speakers-bio/speaker-24"
+      },
+      {
+        "photo": "/images/speakers-images/27-Dominic_Amuzu.jpeg",
+        "alt": "Dr. Dominic S. Y. Amuzu",
+        "name": "Dr. Dominic S. Y. Amuzu",
+        "designation": "Bioinformatician, WACCBIP & Post-Doctoral Fellow, MRC, The Gambia and London School of Hygiene and Tropical Medicine",
+        "href": "/speakers-bio/speaker-27"
+      },
+      {
+        "photo": "/images/speakers-images/33-Dr-Caleb-Kibet.jpg",
+        "alt": "Dr. Caleb Kibet",
+        "name": "Dr. Caleb Kibet",
+        "designation": "Bioinformatician/Data Scientist at International Aids Vaccine Initiative (IAVI), Kenya",
+        "href": "/speakers-bio/speaker-33"
+      },
+      {
+        "photo": "/images/speakers-images/20-Winfred_Gatua.jpg",
+        "alt": "Winfred Gatua",
+        "name": "Winfred Gatua",
+        "designation": "Wellcome Trust Ph.D. fellow, University of Bristol",
+        "href": "/speakers-bio/speaker-20"
+      },
+      {
+        "photo": "/images/speakers-images/21-Biigba_Bright.jpg",
+        "alt": "Biigba Bright",
+        "name": "Biigba Bright",
+        "designation": "PhD Biodata analytics and computational Genomics, Ghana",
+        "href": "/speakers-bio/speaker-21"
+      },
+      {
+        "photo": "/images/speakers-images/23-Toheeb_Balogun.jpeg",
+        "alt": "Balogun Toheeb",
+        "name": "Balogun Toheeb",
+        "designation": "PhD student, University of California, San Diego, USA",
+        "href": "/speakers-bio/speaker-23"
+      },
+      {
+        "photo": "/images/speakers-images/25-Opeoluwa_Adewale.jpg",
+        "alt": "Opeoluwa Adewale",
+        "name": "Opeoluwa Adewale",
+        "designation": "PhD student, Johns Hopkins Bloomberg School of Public Health, USA",
+        "href": "/speakers-bio/speaker-25"
+      },
+      {
+        "photo": "/images/speakers-images/26-Ayomide_Mary_Olukorede.jpeg",
+        "alt": "Ayomide Mary",
+        "name": "Ayomide Mary",
+        "designation": "PhD student, John Innes Institute, UK",
+        "href": "/speakers-bio/speaker-26"
+      },
+      {
+        "photo": "/images/speakers-images/28-Ademola_Aiyenuro.jpeg",
+        "alt": "Ademola Ayeinuro",
+        "name": "Ademola Ayeinuro",
+        "designation": "PhD student, University of Cambridge, UK",
+        "href": "/speakers-bio/speaker-28"
+      },
+      {
+        "photo": "/images/speakers-images/29-Rispah_Nyambura.jpeg",
+        "alt": "Rispah Nyambura",
+        "name": "Rispah Nyambura",
+        "designation": "Wellcome Trust PhD student, Quadram Institute and John Innes Centre, UK",
+        "href": "/speakers-bio/speaker-29"
+      },
+      {
+        "photo": "/images/speakers-images/30-Dr-Segun_Afolaranmi.jpeg",
+        "alt": "Dr. Segun Afolaranmi",
+        "name": "Dr. Segun Afolaranmi",
+        "designation": "PhD student, University of Cambridge, UK",
+        "href": "/speakers-bio/speaker-30"
+      },
+      {
+        "photo": "/images/speakers-images/31-Bernice_Waweru.png",
+        "alt": "Bernice Waweru",
+        "name": "Bernice Waweru",
+        "designation": "PhD student, John Innes Centre, UK",
+        "href": "/speakers-bio/speaker-31"
+      },
+      {
+        "photo": "/images/speakers-images/32_Eric_Gathirwa_Kariuki.jpeg",
+        "alt": "Eric Gathirwa",
+        "name": "Eric Gathirwa",
+        "designation": "Co-Founder at cleantech startup (AeT) Aquaethanol Technologies",
+        "href": "/speakers-bio/speaker-32"
+      }
+    ]
+  },
+  {
+    "key": "graduate",
+    "toggleHeading": null,
+    "pageTitle": "Graduate School Speakers",
+    "cards": [
+      {
+        "photo": "/images/speakers-images/graduate-speakers/GS4-Parcelli-Jepchirchir.jpeg",
+        "alt": "Parcelli Jepchirchir",
+        "name": "Parcelli Jepchirchir",
+        "designation": "DAAD MSc fellow, Pwani University, Kenya",
+        "href": "/speakers-bio/g-speaker-4"
+      },
+      {
+        "photo": "/images/speakers-images/graduate-speakers/GS1-Mantate Mlotshwa.jpeg",
+        "alt": "Mantate Mlotshwa",
+        "name": "Mantate Mlotshwa",
+        "designation": "AfOx Mastercard Alumnus, UK",
+        "href": "/speakers-bio/g-speaker-1"
+      },
+      {
+        "photo": "/images/speakers-images/graduate-speakers/GS2-Julius Kaliisa.jpg",
+        "alt": "Julius Kaliisa",
+        "name": "Julius Kaliisa",
+        "designation": "PhD student, Harvard University, USA",
+        "href": "/speakers-bio/g-speaker-2"
+      },
+      {
+        "photo": "/images/speakers-images/graduate-speakers/GS3-Judy_Achieng.png",
+        "alt": "Judy_Achieng",
+        "name": "Judy Achieng’",
+        "designation": "Stipendium Hungaricum Scholar, Europe",
+        "href": "/speakers-bio/g-speaker-3"
+      }
+    ]
+  }
+]

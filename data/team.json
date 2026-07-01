@@ -1,0 +1,170 @@
+{
+  "anita": {
+    "slug": "anita",
+    "title": "Anita of MSJ",
+    "slides": [
+      {
+        "className": "slide gradient-background",
+        "id": "slide1",
+        "heading": "The Health Data Scientist",
+        "bodyHtml": "Anita is a health researcher with over three years of experience in\r\n            health data science and program management. Her expertise extends to\r\n            digital health, where she has mentored young statisticians and\r\n            software engineers, led teams in developing web-based dashboards,\r\n            and utilised data analysis to inform evidence-based decision-making\r\n            in health. She holds a BSc. in Epidemiology and Biostatistics and is\r\n            currently reading for an MSc. in International Health and Tropical\r\n            Medicine as a MasterCard Foundation scholar at the University of\r\n            Oxford.",
+        "linkHref": "/about#experts",
+        "linkClass": "know-more",
+        "linkText": "Go Back",
+        "img": "/images/team/AnitaL-1.jpg",
+        "alt": "Anita of MSJ"
+      },
+      {
+        "className": "slide gradient-background2",
+        "id": "slide2",
+        "heading": "The Digital Mentor",
+        "bodyHtml": "While pursuing an undergraduate program in Kenya, which was very new\r\n            at the time, Anita faced a lack of understanding from many about\r\n            what she was studying, its potential, and the career options it\r\n            offered. This prompted her to seek out mentors online, where she\r\n            appreciated the power of sharing experiences for others to learn\r\n            from. This experience motivated her to join MSJ and actively use her\r\n            social media platforms which have a current collective following of\r\n            ~50,000, to advocate for the integration of data science in health\r\n            and provide guidance on educational opportunities.",
+        "linkHref": "/about#experts",
+        "linkClass": "know-more",
+        "linkText": "Go Back",
+        "img": "/images/team/AnitaL-2.jpg",
+        "alt": "Anita of MSJ"
+      }
+    ]
+  },
+  "cynthia": {
+    "slug": "cynthia",
+    "title": "Cynthia of MSJ",
+    "slides": [
+      {
+        "className": "slide gradient-background",
+        "id": "slide1",
+        "heading": "The Industrial Chemist & ML engineer",
+        "bodyHtml": "Cynthia Wanyeki is an Industrial Chemist specializing in Data\r\n            Science, Machine Learning, and Augmented Reality. She engineers\r\n            innovative solutions in polymer chemistry, leveraging cutting-edge\r\n            technologies to push the boundaries of the field. <br /><br />As a\r\n            Master of Machine Learning Engineering and an MSc student in Data\r\n            Science, Cynthia is passionate about reshaping chemical engineering\r\n            through AI methodologies. Her dedication to advancing knowledge is\r\n            evident as she aspires to pursue a PhD in Computational\r\n            Chemistry.<br /><br />In addition to her scientific endeavors,\r\n            Cynthia develops engaging chatbots for various platforms, seamlessly\r\n            blending technology with human interaction.",
+        "linkHref": "/about#experts",
+        "linkClass": "know-more",
+        "linkText": "Go Back",
+        "img": "/images/team/CynthiaL2.jpeg",
+        "alt": "Cynthia of MSJ"
+      },
+      {
+        "className": "slide gradient-background2",
+        "id": "slide2",
+        "heading": "The Content Creator",
+        "bodyHtml": "Asides from her scientific prowess, Cynthia is also a passionate\r\n            graphic designer and fashion enthusiast. <br />\r\n            She was inspired to join a community of young budding scientists\r\n            whom she would learn from. She beleves MSJ is not just a platform\r\n            but a community and a family of scientists.",
+        "linkHref": "/about#experts",
+        "linkClass": "know-more",
+        "linkText": "Go Back",
+        "img": "/images/team/CynthiaL.JPG",
+        "alt": "Cynthia of MSJ"
+      }
+    ]
+  },
+  "david": {
+    "slug": "david",
+    "title": "David of MSJ",
+    "slides": [
+      {
+        "className": "slide gradient-background",
+        "id": "slide1",
+        "heading": "The Advocate-Leader",
+        "bodyHtml": "David Githaiga is a data scientist, bioinformatician, and emerging health systems leader committed to advancing equitable, data-driven healthcare in Africa. He builds evidence-based tools, from predictive models to AI-powered clinical support systems, that turn complex data into actionable insights for stronger public health decision-making.",
+        "linkHref": "/about#experts",
+        "linkClass": "know-more",
+        "linkText": "Go Back",
+        "img": "/images/team/DavidL-1.png",
+        "alt": "David of MSJ"
+      },
+      {
+        "className": "slide gradient-background2",
+        "id": "slide2",
+        "heading": "The Innovator",
+        "bodyHtml": "David Githaiga is a solutions-driven innovator who uses data, AI, and systems thinking to solve complex public health challenges. He has developed predictive cancer-risk models, built RAG-powered chatbots and clinical support tools for TB diagnosis, and applied analytics in real governance settings through work with the Council of Governors and as a Volunteer Epidemiologist. His innovation track record has earned him fellowships with the Young African Leadership Initiative, the University of Nairobi Innovation Fellowship, and the World Youth Alliance, affirming his potential as a builder and changemaker.",
+        "linkHref": "/about#experts",
+        "linkClass": "know-more",
+        "linkText": "Go Back",
+        "img": "/images/team/DavidL-2.png",
+        "alt": "David of MSJ"
+      }
+    ]
+  },
+  "lilian": {
+    "slug": "lilian",
+    "title": "Lilian of MSJ",
+    "slides": [
+      {
+        "className": "slide gradient-background",
+        "id": "slide1",
+        "heading": "The Global Health Researcher",
+        "bodyHtml": "Lilian is a global health professional working at the intersection of health and gender through the lens of data. She explores how gender shapes individual experiences of health, using data storytelling to illuminate these realities and bridge the gap between evidence and action. Throughout her career, she has partnered with leading global health institutions to drive social change in the Global South, with a special focus on co-creating solutions with young people.",
+        "linkHref": "/about#experts",
+        "linkClass": "know-more",
+        "linkText": "Go Back",
+        "img": "/images/team/LilianL-1.jpeg",
+        "alt": "Lilian of MSJ"
+      },
+      {
+        "className": "slide gradient-background2",
+        "id": "slide2",
+        "heading": "The Evidence Translator",
+        "bodyHtml": "Throughout her journey in science, she has seen firsthand that generating evidence is only half the battle. The other half, the one that sparks change is about connection. It's about translating complex data and the scientific rigor behind it into clear stories that connect with the community and connecting with mentors who can help navigate the often-unclear path of a scientific career.",
+        "linkHref": "/about#experts",
+        "linkClass": "know-more",
+        "linkText": "Go Back",
+        "img": "/images/team/LilianL-2.jpeg",
+        "alt": "Lilian of MSJ"
+      }
+    ]
+  },
+  "nehemiah": {
+    "slug": "nehemiah",
+    "title": "Nehemiah of MSJ",
+    "slides": [
+      {
+        "className": "slide gradient-background",
+        "id": "slide1",
+        "heading": "The Creative Designer",
+        "bodyHtml": "Navigating and growing as a scientist in the global south takes\r\n            tears, sweat and blood. The idea of having a platform for sharing\r\n            candid experiences, reality talks and possibilities for growth amid\r\n            constrained resources is close to my heart.",
+        "linkHref": "/about#experts",
+        "linkClass": "know-more",
+        "linkText": "Go Back",
+        "img": "/images/team/NehemiahL.JPG",
+        "alt": "Nehemiah of MSJ"
+      },
+      {
+        "className": "slide gradient-background2",
+        "id": "slide2",
+        "heading": "The Scientist",
+        "bodyHtml": "Nehemiah Ongeso is a bioinformatics research fellow working on\r\n            ancient genomics at the Computational and Molecular Population\r\n            Genetics (CMPG) Research Group at the University of Bern,\r\n            Switzerland.",
+        "linkHref": "/about#experts",
+        "linkClass": "know-more",
+        "linkText": "Go Back",
+        "img": "/images/team/NehemiahL2.jpeg",
+        "alt": "Nehemiah of MSJ"
+      }
+    ]
+  },
+  "ruth": {
+    "slug": "ruth",
+    "title": "Ruth of MSJ",
+    "slides": [
+      {
+        "className": "slide gradient-background",
+        "id": "slide1",
+        "heading": "The Visionary",
+        "bodyHtml": "Ruth Nanjala is a dedicated leader shaping impactful initiatives\r\n            across the globe. Ruth’s multifaceted contributions underscore her\r\n            commitment to mentorship, education, and community building. Ruth is\r\n            the founder of the '<em>My Science Journey</em>' (MSJ) webinar series.\r\n            Through the MSJ platform, established scientists are invited to\r\n            share their science stories, thus offering mentorship to inspire\r\n            and guide young scientists towards careers in science. As the\r\n            inaugural AfOx Kennedy Trust Prize Studentship Scholar, she is\r\n            currently pursuing a PhD in Molecular and Cellular Medicine at the\r\n            University of Oxford.origin",
+        "linkHref": "/about#experts",
+        "linkClass": "know-more",
+        "linkText": "Go Back",
+        "img": "/images/team/RuthL.jpg",
+        "alt": "Ruth of MSJ"
+      },
+      {
+        "className": "slide gradient-background2",
+        "id": "slide2",
+        "heading": "The Founder",
+        "bodyHtml": "Mentorship has been pivotal in my personal development, shaping my\r\n            journey and growth. To pay this forward and support others, I\r\n            founded MSJ, a platform dedicated to mentorship in the scientific\r\n            community. Recognizing that the path in science is often nonlinear\r\n            and multifaceted, I established MSJ to offer diverse perspectives\r\n            and insights into scientific careers. Through MSJ, individuals can\r\n            network, collaborate, and connect with mentors who share their\r\n            interests, fostering professional growth and development.",
+        "linkHref": "/about#experts",
+        "linkClass": "know-more",
+        "linkText": "Go Back",
+        "img": "/images/team/RuthL2.JPG",
+        "alt": "Ruth of MSJ"
+      }
+    ]
+  }
+}
