@@ -11,7 +11,7 @@ export default function HomePage() {
   return (
     <>
       <HomeContent />
-      <Footer variant="blue" />
+      <Footer />
     </>
   );
 }

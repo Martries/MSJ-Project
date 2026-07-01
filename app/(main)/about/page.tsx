@@ -211,7 +211,7 @@ export default function AboutPage() {
         </div>
       </section>
 
-      <Footer variant="light" />
+      <Footer />
     </>
   );
 }

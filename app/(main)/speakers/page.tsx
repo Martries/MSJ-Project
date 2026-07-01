@@ -90,7 +90,7 @@ export default function SpeakersPage() {
         <SpeakerGrid key={group.key} group={group} />
       ))}
 
-      <Footer variant="light" backToTop />
+      <Footer />
     </>
   );
 }

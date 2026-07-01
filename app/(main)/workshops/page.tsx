@@ -11,7 +11,7 @@ export default function WorkshopsPage() {
   return (
     <>
       <WorkshopsContent />
-      <Footer variant="plain" />
+      <Footer />
     </>
   );
 }

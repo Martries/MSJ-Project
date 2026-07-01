@@ -11,7 +11,7 @@ export default function OpportunitiesPage() {
   return (
     <>
       <OpportunitiesContent />
-      <Footer variant="plain" />
+      <Footer />
     </>
   );
 }

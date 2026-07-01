@@ -1,31 +1,15 @@
 import Link from "next/link";
 
 /**
- * Site footer. The original site has three footer background variants across
- * pages (an authoring inconsistency, preserved here for pixel parity):
- *   - "blue"  : wrapper .container,          <footer style="background:#f0f5fc"> (home, opportunities)
- *   - "light" : wrapper .bg-light .container, plain <footer>                     (about, speakers, contact)
- *   - "plain" : wrapper .container,           plain <footer>                     (workshops, privacy, terms)
- * Every page passes the variant matching its current live counterpart.
+ * Uniform site footer (light-gray `bg-light`). The original site had several
+ * inconsistent footer variants across pages; per the site owner's request they
+ * are now standardized to a single look used on every non-bare page (main pages,
+ * speaker bios, and team pages). Privacy/Terms remain bare standalone documents.
  */
-type FooterVariant = "blue" | "light" | "plain";
-
-export default function Footer({
-  variant = "plain",
-  backToTop = false,
-}: {
-  variant?: FooterVariant;
-  backToTop?: boolean;
-}) {
-  const wrapperClass = variant === "light" ? "bg-light container" : "container";
-  const footerStyle = variant === "blue" ? { background: "#f0f5fc" } : undefined;
-
+export default function Footer() {
   return (
-    <div className={wrapperClass}>
-      <footer
-        className="row row-cols-1 row-cols-sm-2 row-cols-md-5 py-3 my-3 mx-0 border-top"
-        style={footerStyle}
-      >
+    <div className="bg-light container">
+      <footer className="row row-cols-1 row-cols-sm-2 row-cols-md-5 py-3 my-3 mx-0 border-top">
         <div className="col mb-3">
           <a
             href="/"
@@ -114,17 +98,7 @@ export default function Footer({
           </ul>
         </div>
 
-        {backToTop ? (
-          <div className="col mb-3">
-            <h5 className="nav-item mb-2">
-              <a href="#top-logo" className="nav-link p-0 text-body-secondary">
-                Back to Top
-              </a>
-            </h5>
-          </div>
-        ) : (
-          <div className="col mb-3"></div>
-        )}
+        <div className="col mb-3"></div>
       </footer>
     </div>
   );
