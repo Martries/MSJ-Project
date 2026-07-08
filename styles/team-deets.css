@@ -53,7 +53,9 @@ body {
     position: relative;
 }
 
-.slide {
+/* .swiper-slide.slide (not just .slide) so this outranks Swiper's own
+   `.swiper-slide { display: block }` base rule of equal specificity. */
+.swiper-slide.slide {
     display: grid;
     grid-template-columns: 1fr 1fr;
     align-items: center;
@@ -176,8 +178,44 @@ body {
     background-color: #717171;
 }
 
+/* Swiper replaces Owl Carousel; restyle its nav/pagination to match the
+   original owl-nav/owl-dots look, since Swiper uses different class names. */
+.swiper-button-prev,
+.swiper-button-next {
+    width: 40px;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 50%;
+    color: white;
+}
+
+.swiper-button-prev::after,
+.swiper-button-next::after {
+    font-size: 16px;
+}
+
+.swiper-button-prev {
+    left: 2px;
+}
+
+.swiper-button-next {
+    right: 20px;
+}
+
+.swiper-pagination-bullet {
+    height: 15px;
+    width: 15px;
+    background-color: #bbb;
+    opacity: 1;
+}
+
+.swiper-pagination-bullet-active,
+.swiper-pagination-bullet:hover {
+    background-color: #717171;
+}
+
 @media (max-width: 768px) {
-    .slide {
+    .swiper-slide.slide {
         display: block;
         text-align: center;
         padding: 0;
@@ -188,7 +226,7 @@ body {
         padding: 20px;
     }
 
-    .slide img {
+    .swiper-slide.slide img {
         width: 100%;
         height: auto;
         max-width: 100%;
@@ -196,6 +234,11 @@ body {
     }
 
     .owl-nav button {
+        display: none;
+    }
+
+    .swiper.slider .swiper-button-prev,
+    .swiper.slider .swiper-button-next {
         display: none;
     }
 }

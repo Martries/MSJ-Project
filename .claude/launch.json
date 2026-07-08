@@ -6,6 +6,12 @@
       "runtimeExecutable": "npx",
       "runtimeArgs": ["next", "dev", "-p", "3100"],
       "port": 3100
+    },
+    {
+      "name": "msj-static",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["serve", "-l", "3101", "out"],
+      "port": 3101
     }
   ]
 }
