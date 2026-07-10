@@ -1695,6 +1695,7 @@ div.t-heading{
         }
 
         .workshop-btn {
+    display: inline-block;
     background: #005BB5;
     color: #fff;
     border: none;
@@ -1706,9 +1707,11 @@ div.t-heading{
     margin-top: 8px;
     transition: background 0.2s ease;
     width: fit-content;
+    text-decoration: none;
 }
 .workshop-btn:hover {
     background: #FFA500;
+    color: #fff;
 }
 .modal-header {
     background: linear-gradient(135deg, #005BB5, #00bfff);

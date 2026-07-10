@@ -44,7 +44,7 @@ export default function WorkshopsContent() {
           </div>
           <div className="workshop-info">
             <span className="workshop-tag" style={{ background: "#d1fae5", color: "#065f46" }}>
-              Past Workshop — 18th June 2026
+              18th June 2026
             </span>
             <h3>
               A Public Engagement Workshop on Sickle Cell Disease in African Communities
@@ -60,6 +60,14 @@ export default function WorkshopsContent() {
             <button className="workshop-btn" onClick={() => setShow(4)}>
               Read More
             </button>
+            <a
+              className="workshop-btn"
+              href="https://youtube.com/playlist?list=PLN5ZoNe-sgzk&si=4b_KcpP2oj1JMG-m"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Watch Session Videos
+            </a>
           </div>
         </div>
       </div>
@@ -303,9 +311,6 @@ export default function WorkshopsContent() {
           </Modal.Title>
         </Modal.Header>
         <Modal.Body>
-          <span className="modal-tag" style={{ background: "#d1fae5", color: "#065f46" }}>
-            Past Workshop
-          </span>
           <p className="modal-date">
             Thursday, 18th June 2026 — 8:00 AM – 11:30 AM (BST) — Online via Zoom
           </p>
