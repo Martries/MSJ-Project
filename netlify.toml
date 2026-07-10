@@ -1,9 +1,13 @@
-# Netlify configuration for the DEMO deployment (msjdemo.netlify.app).
-#
-# The demo must stay non-indexable, so after building we overwrite robots.txt
-# with the "Disallow: /" version. PRODUCTION must NOT do this — for the
-# production site, use `command = "next build"` so the indexable public/robots.txt
-# (Allow: /) is served instead.
+# Shared Netlify configuration for both the demo and production sites,
+# since they build from the same repo. The demo (branch: demo) must stay
+# non-indexable, so the default [build] command overwrites robots.txt with
+# the "Disallow: /" version. Production (branch: main) overrides that via
+# the branch-specific [context.main] block below, using a plain `next build`
+# so the indexable public/robots.txt (Allow: /) is served instead. A
+# netlify.toml [context.<branch>] block always wins over the top-level
+# [build] block for that branch, on any site — do not add a
+# [context.production] block instead, since "production" resolves per-site
+# (it means "demo" on msjdemo) and would wrongly strip the demo's noindex.
 
 [build]
   command = "next build && cp public/robots-noindex.txt out/robots.txt"
@@ -11,3 +15,6 @@
 
 [build.environment]
   NODE_VERSION = "20"
+
+[context.main]
+  command = "next build"
